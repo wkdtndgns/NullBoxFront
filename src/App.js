@@ -9,7 +9,7 @@ import {
   Result,
   Brand,
   Speed,
-} from '../pages';
+} from './pages';
 
 class App extends Component {
   render() {

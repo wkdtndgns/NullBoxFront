@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Root from './client/Root';
+import Root from './Root';
 import { injectGlobal } from 'styled-components';
 import reset from 'styled-reset';
 import './typography';
-import App from './shared/App';
+
 import registerServiceWorker from './registerServiceWorker';
 injectGlobal`
 ${reset};
