@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://wkdtndgns.github.io/NullBox",
+  "homepage": "http://wkdtndgns.github.io/NullBoxFront",
   "devDependencies": {
     "cross-env": "^5.2.0",
     "gh-pages": "^1.2.0"

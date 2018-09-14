@@ -68,7 +68,7 @@ class Home extends Component {
                         <p>
                             <img src={logo} alt="logo" className="logo" />
                         </p>
-                        <p className="main-text" /> /*바로가기 잠시지움*/
+                        <p className="main-text" />
                         <div className="home-button">
                             <Link to="/Setting/스피드게임">
                                 <div className="btn home" onClick={this.game1}>
