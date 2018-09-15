@@ -5,7 +5,6 @@ import { injectGlobal } from 'styled-components';
 import reset from 'styled-reset';
 import './typography';
 
-import registerServiceWorker from './registerServiceWorker';
 injectGlobal`
 ${reset};
 body{
@@ -18,4 +17,3 @@ html,
 }`;
 
 ReactDOM.render(<Root />, document.getElementById('root'));
-registerServiceWorker();

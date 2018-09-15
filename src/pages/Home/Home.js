@@ -18,7 +18,7 @@ class Home extends Component {
 
 
     componentDidMount() {
-        const url = 'http://192.168.0.10:8080/nullBox';
+        const url = 'https://182.209.240.203:8080/nullBox';
         axios
             .get(
                 url + `/api/list`
