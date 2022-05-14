@@ -2,8 +2,6 @@
 
 Team NULLBox / Short Game for Player
 
-서비스   
-www.play-it.site
 
 서비스 설명
 <br/><br/>
